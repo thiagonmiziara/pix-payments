@@ -1,4 +1,4 @@
-# Sistema de Pagamento com Pix e WebSockets
+# Sistema de Pagamento simulando (Pix) utilizando WebSockets
 
 Este projeto é uma demonstração simples de como criar um sistema de pagamento
 com Pix utilizando WebSockets. O projeto é composto por uma API em Flask que
@@ -33,7 +33,7 @@ Abra um navegador e acesse a URL http://localhost:5000. O projeto irá gerar um
 novo pagamento e mostrar o QRCode do pagamento. Confirme o pagamento e o
 projeto irá mostrar uma mensagem de confirmação do pagamento.
 
-## Contribui o
+## Contribuir
 
 Este projeto uma demonstra o de como criar um sistema de pagamento com
 Pix e WebSockets. O projeto livre para uso e contribui o. Caso tenha
